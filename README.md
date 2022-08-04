@@ -15,6 +15,11 @@ GUI
 Excel View
 
 ![Export to excel file](https://user-images.githubusercontent.com/90090243/182791081-ebe9c988-d678-43a9-8207-68081fbd2fd8.PNG)
+
+Export
+
+![export](https://user-images.githubusercontent.com/90090243/182791352-44b57f30-06e0-453a-8a8f-a236044edb93.png)
+
   
 
   
