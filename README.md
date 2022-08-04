@@ -3,10 +3,15 @@
 QA Automation Tool is an open source test automation platform for Operating systems, Mobile Apps, WebApps and APIs.
 Completely written in python, with simple GUI witch helps the testing process.
 User can build end to end tests.
+
   •	Run test senarios with image recognition.
+  
   •	Export test to excel file
+  
   •	Automate end-to-end testing for Operating systems, Android, Mobile Apps.
+  
   •	Write your own senarios in Python
+  
   
 GUI
 
@@ -27,6 +32,33 @@ Write your own senario
 Automate everything!
 
 ![Windows-Android](https://user-images.githubusercontent.com/90090243/182791940-a9044102-12e2-4517-8f5c-85b2555dad4a.png)
+
+In order to work you need to install the following libraries.
+
+
+install python
+
+https://www.python.org/downloads/
+
+
+install pip from Command Prompt
+
+https://phoenixnap.com/kb/install-pip-windows
+
+
+install tkinter from Command Prompt
+
+pip install tk
+
+
+install pyautogui from Command Prompt
+
+pip install pyautogui
+
+
+install opencv(you need previous version, not the latest)
+
+pip install opencv-python==4.5.5.64
 
   
 
