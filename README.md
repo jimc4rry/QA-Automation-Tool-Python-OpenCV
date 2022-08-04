@@ -8,7 +8,7 @@ User can build end to end tests.
   •	Automate end-to-end testing for Operating systems, Android, Mobile Apps.
   •	Write your own senarios in Python
   
-https://github.com/jimc4rry/QA-Automation-Tool-Python-OpenCV/issues/1#issue-1328195494
+
   
 
   
