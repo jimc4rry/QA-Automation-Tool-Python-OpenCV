@@ -8,6 +8,8 @@ User can build end to end tests.
   •	Automate end-to-end testing for Operating systems, Android, Mobile Apps.
   •	Write your own senarios in Python
   
+![GUI](https://user-images.githubusercontent.com/90090243/182790653-3160f3ef-1f95-4c17-b56b-6b2625d0c307.PNG)
+  
 
   
 
